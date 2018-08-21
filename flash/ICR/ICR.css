@@ -1,0 +1,44 @@
+html,body {
+  background-color: black;
+  margin: 0 auto;
+}
+
+#Obscurity_Logo {
+  position: relative;
+}
+
+nav {
+  position: relative;
+  text-align: center;
+  background-color: rgb(5,5,5);
+}
+
+nav a {
+  text-decoration: none;
+  font-family: 'Monoton', cursive;
+  font-size: 500%;
+  color: white;
+}
+
+nav a:hover {
+  background-color: rgb(25,0,25);
+  border-radius: 50px;
+}
+
+nav a:hover {
+  background-color: rgb(25,0,25);
+  border-radius: 50px;
+}
+
+#container {
+  position: relative;
+    top: 5vw;
+    left: 25%;
+  width: 75%;
+  height: 100%;
+}
+
+embed {
+  width: 75vw;
+  height: 75vw;
+}
