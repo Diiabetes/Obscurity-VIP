@@ -4,14 +4,11 @@ html,body {
 }
 
 #Obscurity_Logo {
-  position: absolute;
-    top: 1vw;
-    left: 43vw;
+  position: relative;
 }
 
 nav {
   position: relative;
-    top: 20em;
   text-align: center;
   background-color: rgb(5,5,5);
 }
@@ -31,5 +28,5 @@ nav a:hover {
 #list {
   margin-left: 15vw;
   position: relative;
-    top: 25em;
+    top: 5vw;
 }
